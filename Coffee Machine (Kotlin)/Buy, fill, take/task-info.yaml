@@ -368,14 +368,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/67/stages/363/implement#comment
-status: Failed
+status: Solved
 feedback:
-  message: "Exception in test #1\n\njava.lang.NumberFormatException: For input string:\
-    \ &quot;take&quot;\n\tat java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)\n\
-    \tat java.base/java.lang.Integer.parseInt(Integer.java:668)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:786)\n\
-    \tat machine.MainKt.main(Main.kt:8)\n\tat machine.MainKt.main(Main.kt)\n\nPlease\
-    \ find below the output of your program during this failed test.\nNote that the\
-    \ &#39;&gt;&#39; character indicates the beginning of the input line.\n\n---\n\
-    \nWrite how many ml of water the coffee machine has:\n&gt; take"
-  time: "Thu, 04 May 2023 11:43:49 UTC"
+  message: Congratulations!
+  time: "Thu, 04 May 2023 12:18:30 UTC"
 record: -1
